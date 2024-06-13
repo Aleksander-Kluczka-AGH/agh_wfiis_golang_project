@@ -1,8 +1,8 @@
-# <course_name> - Project
+# Go Language - Project
 
-Project written for Applied Computer Science **<course_name>** course at [AGH UST](https://www.agh.edu.pl/en) [WFiIS](https://www.fis.agh.edu.pl/en/).
+Project written for Applied Computer Science **Go Language** course at [AGH UST](https://www.agh.edu.pl/en) [WFiIS](https://www.fis.agh.edu.pl/en/).
 
-Semester `<semester_number>`, year `<calendar_year>`.
+Semester `10`, year `2024`.
 
 ## License
 
